@@ -1,0 +1,41 @@
+_repo: Adventures-and-Letters-of-Richard-Harding-Davis_405
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+  editor:
+    agent_name: Davis, Charles Belmont
+    birthdate: 1866
+    deathdate: 1926
+    gutenberg_agent_id: '225'
+    url: http://www.gutenberg.org/2009/agents/225
+description: Renowned American journalist Richard Harding Davis helped define the
+  genre of front-line reporting with his first-hand accounts of battlefield action
+  in the Spanish-American war. Later, Davis went on to cover several additional conflicts
+  in his inimitable style. Upon his return to the United States, he worked as a newspaper
+  columnist for several prominent publications, where he tackled many of the toughest
+  social issues of the day. This fascinating volume follows Davis's life on and ...
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Davis, Richard Harding, 1864-1916 -- Correspondence'
+- !lcsh 'Davis, Richard Harding, 1864-1916'
+- !lcsh 'Authors, American -- 19th century -- Correspondence'
+- !lcsh 'Foreign correspondents -- United States -- Biography'
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- GITenberg
+title: Adventures and Letters of Richard Harding Davis
+url: http://www.gutenberg.org/ebooks/405
