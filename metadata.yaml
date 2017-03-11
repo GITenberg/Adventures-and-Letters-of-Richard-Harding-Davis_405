@@ -1,5 +1,8 @@
 _repo: Adventures-and-Letters-of-Richard-Harding-Davis_405
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -20,6 +23,8 @@ description: Renowned American journalist Richard Harding Davis helped define th
   in his inimitable style. Upon his return to the United States, he worked as a newspaper
   columnist for several prominent publications, where he tackled many of the toughest
   social issues of the day. This fascinating volume follows Davis's life on and ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/405#Adventures-and-Letters-of-Richard-Harding-Davis
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
